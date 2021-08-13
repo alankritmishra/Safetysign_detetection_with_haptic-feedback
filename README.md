@@ -9,7 +9,7 @@ This project is a safety sign detection android application that detects three k
 
 ### YOLO v5Model Training
 
-[Safety_sign_dataset.zip](https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/blob/main/Safety_sign_dataset.zip) file contains the source code used for training our custom dataset on YOLOv5 model. The trained model weights are uploaded [here](https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/blob/main/best.pt)
+[YOLOv5_model_training](https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/blob/main/CV_project_safty_sign_yolo5.ipynb) file contains the source code used for training our custom dataset on YOLOv5 model. The trained model weights are uploaded [here](https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/blob/main/best.pt)
 
 ### Android Application
 
@@ -18,7 +18,11 @@ This project is a safety sign detection android application that detects three k
 Start Android Studio, then open the project located in [Safety Sign Detection Android](https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/tree/main/Safety%20Sign%20Detection%20Android). 
 
 #### App screenshots
+<img src="https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/blob/main/Safety%20Sign%20Detection%20Android/screenshots/screenshot_1.jpg" width="20%" height="20%">     <img src="https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/blob/main/Safety%20Sign%20Detection%20Android/screenshots/screenshot_2.PNG" width="21%" height="20%">
 
-[Screenshot 1](https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/blob/main/Safety%20Sign%20Detection%20Android/screenshots/screenshot_1.jpg)
+<!-- ![Screenshot 1](https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/blob/main/Safety%20Sign%20Detection%20Android/screenshots/screenshot_1.jpg)width="25px -->
 
-[Screenshot 2](https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/blob/main/Safety%20Sign%20Detection%20Android/screenshots/screenshot_2.PNG)
+<!-- ![Screenshot 2](https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/blob/main/Safety%20Sign%20Detection%20Android/screenshots/screenshot_2.PNG)-->
+
+### Code Reference
+<a href="https://doi.org/10.5281/zenodo.4679653"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4679653.svg" alt="DOI"></a>
