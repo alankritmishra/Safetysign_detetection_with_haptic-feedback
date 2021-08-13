@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Safety Sign Detection</string>
+    <string name="live">Launch Camera</string>
+</resources>

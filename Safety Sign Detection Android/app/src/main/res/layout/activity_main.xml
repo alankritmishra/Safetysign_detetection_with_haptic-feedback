@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        tools:context="ca.lakeheadu.cv.objectdetection.MainActivity">
+
+
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="223dp"
+            android:layout_height="58dp"
+            android:layout_marginTop="120dp"
+            android:text="Safety Sign Detection Configuration"
+            android:textAlignment="center"
+            android:textColor="#3F51B5"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Switch
+            android:id="@+id/hapticSwitch"
+            android:layout_width="200dp"
+            android:layout_height="32dp"
+            android:layout_marginTop="20dp"
+            android:text="Haptic Feedback" />
+
+        <Switch
+            android:id="@+id/speechSwitch"
+            android:layout_width="199dp"
+            android:layout_height="24dp"
+            android:layout_marginTop="15dp"
+            android:text="Speech Feedback" />
+
+        <Button
+            android:id="@+id/launchCamera"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:background="#3F51B5"
+
+            android:text="@string/live"
+            android:textAllCaps="false"
+            android:textColor="#E1E1E1" />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
