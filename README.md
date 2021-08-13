@@ -9,7 +9,7 @@ This project is a safety sign detection android application that detects three k
 
 ### YOLO v5Model Training
 
-[Safety_sign_dataset.zip](https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/blob/main/Safety_sign_dataset.zip) file contains the source code used for training our custom dataset on YOLOv5 model. The trained model weights are uploaded here [insert lini].
+[Safety_sign_dataset.zip](https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/blob/main/Safety_sign_dataset.zip) file contains the source code used for training our custom dataset on YOLOv5 model. The trained model weights are uploaded [here](https://github.com/alankritmishra/Safetysign_detetection_with_haptic-feedback/blob/main/best.pt)
 
 ### Android Application
 
