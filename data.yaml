@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/Safety_Sign_Detection_with_Haptic_Feedback/Datasets/images/train
+val: /content/drive/MyDriveSafety_Sign_Detection_with_Haptic_Feedback/Datasets/images/valid
+nc: 3
+names: ["Caution", "Danger", "Prohibitory"]
